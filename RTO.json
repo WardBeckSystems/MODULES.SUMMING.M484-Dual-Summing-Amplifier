@@ -1,0 +1,16 @@
+{
+ "code": "M484",
+ "connector": "RTO-144",
+ "type": "M484 - Dual Summing Amplifer",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M484/M484.rto144.json"
+ ]
+}
