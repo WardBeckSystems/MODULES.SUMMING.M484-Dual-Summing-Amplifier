@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/SUMMING/M484/MANUALS/1975 - M484 - Dual Summing Amplifer (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/20697285e444dd74-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1560, 2000],
+  "mm": [336.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 29.0, 309.3, 431.6],
+ "outlines": {
+  "line": {"rings": 1876, "straight": {"n": 20137, "mm": 20415.8}, "curved": {"n": 5457, "mm": 6680.7}},
+  "text": {"rings": 21, "straight": {"n": 112, "mm": 83.8}, "curved": {"n": 28, "mm": 27.8}}
+ },
+ "circles": [
+  {"c": [83.7, 163.5], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [112.9, 353.4], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [152.0, 282.3], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [26.3, 46.4, 105.1, 82.5], "w": 78.8, "h": 36.1, "from": "ring"}],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.9, 59.4, 306.8, 68.5], "text": "ps"},
+   {"mm": [274.2, 47.9, 296.2, 59.4], "text": "BS"},
+   {"mm": [251.7, 25.3, 270.3, 32.5], "text": "tp"},
+   {"mm": [244.6, 18.1, 265.6, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [18.2, 157.3], "r": 1.3, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1560 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–309 mm across, 29–432 mm up",
+  "- **Outlines:** line 1,876 rings, 20,137 straight (20,416 mm) / 5,457 curved (6,681 mm); text 21 rings, 112 straight (83.8 mm) / 28 curved (27.8 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.6 @ (83.7, 163.5), r 2.5 @ (112.9, 353.4), r 1.1 @ (152.0, 282.3)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

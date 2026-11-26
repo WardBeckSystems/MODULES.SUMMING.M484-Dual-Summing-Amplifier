@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/SUMMING/M484/MANUALS/1975 - M484 - Dual Summing Amplifer (2).pdf",
+ "page": 8,
+ "version": 1,
+ "trace": "_traces/20697285e444dd74-p8.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1560, 2000],
+  "mm": [336.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "8", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.4, -0.2, 336.9, 429.2],
+ "outlines": {
+  "line": {"rings": 2833, "straight": {"n": 25277, "mm": 24053.5}, "curved": {"n": 6849, "mm": 8157.9}},
+  "text": {"rings": 3, "straight": {"n": 6, "mm": 3.4}, "curved": {"n": 3, "mm": 2.8}}
+ },
+ "circles": [
+  {"c": [91.8, 70.8], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [321.7, 226.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [96.9, 48.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [273.7, 235.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.9, 59.4, 306.8, 68.5], "text": "ps"},
+   {"mm": [274.2, 47.9, 296.2, 59.4], "text": "BS"},
+   {"mm": [251.7, 25.3, 270.3, 32.5], "text": "tp"},
+   {"mm": [244.6, 18.1, 265.6, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [
+  {"c": [115.0, 425.7], "r": 0.7, "lines": 0},
+  {"c": [205.9, 355.8], "r": 1.4, "lines": 0},
+  {"c": [19.3, 307.4], "r": 1.0, "lines": 0},
+  {"c": [316.3, 226.7], "r": 1.5, "lines": 0},
+  {"c": [96.3, 71.6], "r": 0.8, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1560 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–337 mm across, 0–429 mm up",
+  "- **Outlines:** line 2,833 rings, 25,277 straight (24,054 mm) / 6,849 curved (8,158 mm); text 3 rings, 6 straight (3.4 mm) / 3 curved (2.8 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.5 @ (91.8, 70.8), r 1.7 @ (321.7, 226.7), r 1.7 @ (96.9, 48.1), r 1.6 @ (273.7, 235.2)",
+  "- **Dots (junctions):** 5",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

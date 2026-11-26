@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/SUMMING/M484/MANUALS/1975 - M484 - Dual Summing Amplifer (2).pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/20697285e444dd74-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1560, 2000],
+  "mm": [336.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 17.8, 336.9, 431.8],
+ "outlines": {
+  "line": {"rings": 1223, "straight": {"n": 13149, "mm": 13812.3}, "curved": {"n": 3353, "mm": 4192.3}},
+  "text": {"rings": 27, "straight": {"n": 102, "mm": 79.1}, "curved": {"n": 44, "mm": 42.1}}
+ },
+ "circles": [
+  {"c": [152.5, 306.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [157.7, 306.1], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [{"mm": [25.5, 48.8, 104.1, 85.3], "w": 78.6, "h": 36.5, "from": "ring"}],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.9, 59.4, 306.8, 68.5], "text": "ps"},
+   {"mm": [274.2, 47.9, 296.2, 59.4], "text": "BS"},
+   {"mm": [251.7, 25.3, 270.3, 32.5], "text": "tp"},
+   {"mm": [244.6, 18.1, 265.6, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1560 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 18–432 mm up",
+  "- **Outlines:** line 1,223 rings, 13,149 straight (13,812 mm) / 3,353 curved (4,192 mm); text 27 rings, 102 straight (79.1 mm) / 44 curved (42.1 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.5 @ (152.5, 306.0), r 2.2 @ (157.7, 306.1)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

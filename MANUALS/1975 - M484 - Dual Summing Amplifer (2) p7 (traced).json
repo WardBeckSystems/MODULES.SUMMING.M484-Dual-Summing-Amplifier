@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/SUMMING/M484/MANUALS/1975 - M484 - Dual Summing Amplifer (2).pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/20697285e444dd74-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1560, 2000],
+  "mm": [336.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 24.3, 337.0, 431.3],
+ "outlines": {
+  "line": {"rings": 1610, "straight": {"n": 18225, "mm": 20489.8}, "curved": {"n": 4434, "mm": 5845.8}},
+  "text": {"rings": 17, "straight": {"n": 75, "mm": 51.3}, "curved": {"n": 30, "mm": 27.7}}
+ },
+ "circles": [
+  {"c": [259.5, 163.3], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [88.4, 349.4], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [45.6, 355.4], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [112.1, 234.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [319.1, 154.9], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [87.7, 55.1, 100.4, 63.9], "w": 12.7, "h": 8.9, "from": "ring"},
+  {"mm": [101.7, 45.8, 118.7, 54.6], "w": 17.1, "h": 8.8, "from": "ring"},
+  {"mm": [87.9, 45.8, 100.8, 54.4], "w": 12.9, "h": 8.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.9, 59.4, 306.8, 68.5], "text": "ps"},
+   {"mm": [274.2, 47.9, 296.2, 59.4], "text": "BS"},
+   {"mm": [251.7, 25.3, 270.3, 32.5], "text": "tp"},
+   {"mm": [244.6, 18.1, 265.6, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [
+  {"c": [51.2, 355.7], "r": 1.2, "lines": 0},
+  {"c": [294.1, 353.7], "r": 1.1, "lines": 0},
+  {"c": [259.5, 261.3], "r": 1.3, "lines": 0},
+  {"c": [255.1, 261.2], "r": 1.3, "lines": 0},
+  {"c": [166.3, 226.0], "r": 1.1, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1560 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 24–431 mm up",
+  "- **Outlines:** line 1,610 rings, 18,225 straight (20,490 mm) / 4,434 curved (5,846 mm); text 17 rings, 75 straight (51.3 mm) / 30 curved (27.7 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.6 @ (259.5, 163.3), r 2.5 @ (88.4, 349.4), r 2.5 @ (45.6, 355.4), r 2.4 @ (112.1, 234.3)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 5",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

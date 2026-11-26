@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/SUMMING/M484/MANUALS/1975 - M484 - Dual Summing Amplifer (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/20697285e444dd74-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1560, 2000],
+  "mm": [336.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.0, 337.0, 430.3],
+ "outlines": {
+  "line": {"rings": 2019, "straight": {"n": 16814, "mm": 16978.0}, "curved": {"n": 4496, "mm": 5561.3}},
+  "text": {"rings": 23, "straight": {"n": 110, "mm": 102.8}, "curved": {"n": 38, "mm": 47.2}}
+ },
+ "circles": [
+  {"c": [223.7, 273.8], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [121.5, 153.5], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [134.3, 153.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [228.1, 157.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.9, 59.4, 306.8, 68.5], "text": "ps"},
+   {"mm": [274.2, 47.9, 296.2, 59.4], "text": "BS"},
+   {"mm": [251.7, 25.3, 270.3, 32.5], "text": "tp"},
+   {"mm": [244.6, 18.1, 265.6, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [117.4, 424.8], "r": 0.7, "lines": 0}, {"c": [223.7, 273.9], "r": 1.4, "lines": 0}, {"c": [118.0, 259.4], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1560 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 5–430 mm up",
+  "- **Outlines:** line 2,019 rings, 16,814 straight (16,978 mm) / 4,496 curved (5,561 mm); text 23 rings, 110 straight (103 mm) / 38 curved (47.2 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.5 @ (223.7, 273.8), r 2.4 @ (121.5, 153.5), r 2.4 @ (134.3, 153.6), r 2.2 @ (228.1, 157.9)",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}
