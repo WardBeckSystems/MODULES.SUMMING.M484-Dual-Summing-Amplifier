@@ -21,7 +21,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Words (OCR):** 65 in 57 lines: I6 · C21 · R26 · 35 · I0 · C1? · Czo · C18 · I5oP · 01 · 330/6 · 23
 - **Wiring (first pass):** 52 connected wire groups from 344 runs; labelled ends: 252 mm → I5oP, 330/6, C18, 23; 221 mm → IJK, C25, IOOP, 2 3; 141 mm → 779, C22, 2 7K, 15 K; 92 mm → R27, 47k, R29, 471; 58 mm → I6, R26, 779, Czo
 
-Every curve, box, word and wire group: [1975 - M484 - 484-02-002 - LAST COMPONENT DESIGNATIONS (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-002%20-%20LAST%20COMPONENT%20DESIGNATIONS%20(traced).json) (the CAD file: `1975 - M484 - 484-02-002 - LAST COMPONENT DESIGNATIONS (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - 484-02-002 - LAST COMPONENT DESIGNATIONS (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-002%20-%20LAST%20COMPONENT%20DESIGNATIONS%20%28traced%29.json) (the CAD file: `1975 - M484 - 484-02-002 - LAST COMPONENT DESIGNATIONS (traced).dxf`).
 
 ## Full text
 

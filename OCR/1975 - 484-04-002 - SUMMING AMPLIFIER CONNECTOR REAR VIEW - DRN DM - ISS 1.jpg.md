@@ -32,7 +32,7 @@ Rotated connector rear view drawing for the M484A summing amplifier with title b
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (54.0, 52.9)
 - **Closed boxes:** 65
 
-Every curve, box, word and wire group: [1975 - 484-04-002 - SUMMING AMPLIFIER CONNECTOR REAR VIEW - DRN DM - ISS 1 (traced).json](../PINOUTS/1975%20-%20484-04-002%20-%20SUMMING%20AMPLIFIER%20CONNECTOR%20REAR%20VIEW%20-%20DRN%20DM%20-%20ISS%201%20(traced).json) (the CAD file: `1975 - 484-04-002 - SUMMING AMPLIFIER CONNECTOR REAR VIEW - DRN DM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 484-04-002 - SUMMING AMPLIFIER CONNECTOR REAR VIEW - DRN DM - ISS 1 (traced).json](../PINOUTS/1975%20-%20484-04-002%20-%20SUMMING%20AMPLIFIER%20CONNECTOR%20REAR%20VIEW%20-%20DRN%20DM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1975 - 484-04-002 - SUMMING AMPLIFIER CONNECTOR REAR VIEW - DRN DM - ISS 1 (traced).dxf`).
 
 ## Full text
 

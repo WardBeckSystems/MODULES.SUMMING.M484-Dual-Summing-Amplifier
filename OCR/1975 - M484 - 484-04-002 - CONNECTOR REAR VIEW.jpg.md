@@ -19,7 +19,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.5 @ (83.4, 81.7)
 - **Closed boxes:** 65
 
-Every curve, box, word and wire group: [1975 - M484 - 484-04-002 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1975%20-%20M484%20-%20484-04-002%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1975 - M484 - 484-04-002 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - 484-04-002 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1975%20-%20M484%20-%20484-04-002%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1975 - M484 - 484-04-002 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

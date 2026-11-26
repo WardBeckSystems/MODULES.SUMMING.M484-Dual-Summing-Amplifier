@@ -27,7 +27,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Title block:** (98, 15)–(250, 87) mm: WBS WAAD-BecK · DRM REB · M 484A · DATE 27 MAY75 · SUMMING · CKD<PAL · SCALE · 484 02 002
 - **Wiring (first pass):** 58 connected wire groups from 721 runs; labelled ends: 192 mm → MATL .; 108 mm → 180 I W, 820, 4007, (35; 67 mm → (35, 22/25, c76, 22 /25; 57 mm → ON; 56 mm → MATL .
 
-Every curve, box, word and wire group: [1975 - M484 - 484-02-002 - CKDSPA SUMMING AMP SCHE (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-002%20-%20CKDSPA%20SUMMING%20AMP%20SCHE%20(traced).json) (the CAD file: `1975 - M484 - 484-02-002 - CKDSPA SUMMING AMP SCHE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - 484-02-002 - CKDSPA SUMMING AMP SCHE (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-002%20-%20CKDSPA%20SUMMING%20AMP%20SCHE%20%28traced%29.json) (the CAD file: `1975 - M484 - 484-02-002 - CKDSPA SUMMING AMP SCHE (traced).dxf`).
 
 ## Full text
 

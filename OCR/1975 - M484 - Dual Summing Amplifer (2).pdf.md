@@ -22,7 +22,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Closed boxes:** 6
 - **Words (OCR):** 354 in 169 lines: Page · MODULE M484 · DUAL SUMMING AMPLIFIER · MODU LE M484A · NGLE SUMMI NG AMP LIF ER · DESI GN · DESCRI PTION · MFG · PART NUMBER · Cl · 330 Fd 6Y · ntal ua
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p1 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p1%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p1 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 1
 - **Words (OCR):** 205 in 128 lines: Pag! · MODULE 1'48 · DUAL SUMMING AM PLI FIE · MODULE M48 · NGLE SUMMING AMPLIFIER · DESIGN · DESCRIPTtDII: · MFG · PART NUHBER · Ql · Tra nsis tor · Fai rc hlld
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p2 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p2%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p2 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Closed boxes:** 1
 - **Words (OCR):** 125 in 88 lines: Page · DUAL SUMMING AMPLIFI ER · MODULE M4 84 · MODULE M484A · INGLE SUMMING AMPLIFIER · DES IGN · DESCRIPTION · MFG. · PART NUMBE · .36 · rae · Philips
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p3 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p3%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p3 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -55,7 +55,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 1
 - **Words (OCR):** 63 in 55 lines: en · Ul · (lJ · A1 · +25V · cc · LoJ:.: · B2 · OJ · C3 · (lJ · ~LoJ
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p4 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p4%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p4 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Closed boxes:** 66; named: llJ llJ CD IE; en 1Il; 1Il; BS; ps; ci lll:; ht
 - **Words (OCR):** 22 in 19 lines: en · 1Il · llJ · +25V · llJ · SUMMIN Ar~P · CD · OUT · IE · SUMMI NG AM · IN · 25V
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p5 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p5%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p5 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 3
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p6 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p6%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p6 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 5
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p7 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p7%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p7 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 5
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p8 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p8%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p8 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 3
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p9 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p9%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p9 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p10 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p10%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p10 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 3
 - **Words (OCR):** 16 in 14 lines: C2\ · 400j · 2'2 t60 · -.2.1 · '1.?/2 · -79 · R?'I) B20 · -It. · 2.2/2? · -2.2 · ps · BS
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p11 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p11%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p11 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -147,7 +147,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 1
 - **Words (OCR):** 49 in 34 lines: in, · C11 · 112" · to · If · R2.7 · 41" · 12 28 C11 · 2·'11l · -.-l1lPU_T___ · C23 · 47P
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p12 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p12%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p12 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Dots (junctions):** 3
 - **Words (OCR):** 11 in 10 lines: 01 · .IOO · OUTP UT · RAI · 1240 · 4K7 · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p13 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p13%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p13 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) 
 - **Closed boxes:** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p14 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20(2)%20p14%20(traced).json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - Dual Summing Amplifer (2) p14 (traced).json](../MANUALS/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1975 - M484 - Dual Summing Amplifer (2) p14 (traced).dxf`).
 
 ## Full text
 

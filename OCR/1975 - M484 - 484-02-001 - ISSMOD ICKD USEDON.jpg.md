@@ -23,7 +23,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Title block:** (80, 56)–(337, 91) mm: ISSMODIcKD- · USEDON · MATL. · WBS · J962
 - **Wiring (first pass):** 98 connected wire groups from 929 runs; labelled ends: 229 mm → 24, r44, Fk, 188p; 170 mm → 739, C 22, R28, I5k; 153 mm → 278, Sik5, 22, C7o; 149 mm → 16, I5k, C29, 47P; 85 mm → +16, R26, c2i, [35
 
-Every curve, box, word and wire group: [1975 - M484 - 484-02-001 - ISSMOD ICKD USEDON (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-001%20-%20ISSMOD%20ICKD%20USEDON%20(traced).json) (the CAD file: `1975 - M484 - 484-02-001 - ISSMOD ICKD USEDON (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - 484-02-001 - ISSMOD ICKD USEDON (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-001%20-%20ISSMOD%20ICKD%20USEDON%20%28traced%29.json) (the CAD file: `1975 - M484 - 484-02-001 - ISSMOD ICKD USEDON (traced).dxf`).
 
 ## Full text
 

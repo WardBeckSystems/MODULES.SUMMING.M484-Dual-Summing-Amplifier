@@ -19,7 +19,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.4 @ (198.0, 17.6), r 2.4 @ (83.0, 83.3)
 - **Closed boxes:** 70
 
-Every curve, box, word and wire group: [1975 - M484 - 484-04-001 - DUAL SUMMING AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M484%20-%20484-04-001%20-%20DUAL%20SUMMING%20AMPLIFIER%20(traced).json) (the CAD file: `1975 - M484 - 484-04-001 - DUAL SUMMING AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - 484-04-001 - DUAL SUMMING AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M484%20-%20484-04-001%20-%20DUAL%20SUMMING%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1975 - M484 - 484-04-001 - DUAL SUMMING AMPLIFIER (traced).dxf`).
 
 ## Full text
 

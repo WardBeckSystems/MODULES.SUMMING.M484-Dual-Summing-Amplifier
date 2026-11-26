@@ -36,7 +36,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Title block:** (351, 45)–(428, 56) mm: WBS WARD Beck ByBTEMB LTD
 - **Wiring (first pass):** 124 connected wire groups from 801 runs; labelled ends: 727 mm → SUMMING, ECHEMATIC, 484 -, 02-0oi; 83 mm → 242162, 220/10, 39', 22; 78 mm → 39', 47 <, 770/6; 76 mm → <322, 47P; 70 mm → 100p
 
-Every curve, box, word and wire group: [1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC - DRN REB - ISS 3 (traced).json](../SCHEMATICS/1975%20-%20484-02-001%20-%20DUAL%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20REB%20-%20ISS%203%20(traced).json) (the CAD file: `1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC - DRN REB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC - DRN REB - ISS 3 (traced).json](../SCHEMATICS/1975%20-%20484-02-001%20-%20DUAL%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20REB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC - DRN REB - ISS 3 (traced).dxf`).
 
 ## Full text
 

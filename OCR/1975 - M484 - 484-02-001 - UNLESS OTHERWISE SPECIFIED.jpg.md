@@ -21,7 +21,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Words (OCR):** 57 in 44 lines: +166 · I0 · c2 · Ci · sz0/6 · 449 · R2 · A7k · R7 c7 · 15k 27p · SUMMING AMP · INPUT
 - **Wiring (first pass):** 78 connected wire groups from 1,206 runs; labelled ends: 159 mm → 449, c7, 27p, R7; 150 mm → 188p, 21, 88, R7; 76 mm → R2, A7k; 72 mm → 449; 67 mm → L8OOP, 88, IKJ
 
-Every curve, box, word and wire group: [1975 - M484 - 484-02-001 - UNLESS OTHERWISE SPECIFIED (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-001%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20(traced).json) (the CAD file: `1975 - M484 - 484-02-001 - UNLESS OTHERWISE SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - 484-02-001 - UNLESS OTHERWISE SPECIFIED (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-001%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20%28traced%29.json) (the CAD file: `1975 - M484 - 484-02-001 - UNLESS OTHERWISE SPECIFIED (traced).dxf`).
 
 ## Full text
 

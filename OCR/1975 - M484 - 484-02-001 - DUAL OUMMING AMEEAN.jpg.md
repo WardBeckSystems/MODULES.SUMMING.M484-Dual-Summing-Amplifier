@@ -22,7 +22,7 @@ Wiki page: [M484](../../../../PAGES/M484.md)
 - **Words (OCR):** 55 in 50 lines: Ra5 +16 · 22 · 620 · C52 · I0 · Q7 · 24 · 2n7569 · LMzol · 2 46 · 16 · Ik5
 - **Wiring (first pass):** 90 connected wire groups from 1,300 runs; labelled ends: 167 mm → C52, 24, LMzol, R44; 136 mm → Czo, 220/10, R4o, 4k7; 104 mm → P47, 22, 249, 220/10; 94 mm → 2 46, 16, Ik5, R4?; 87 mm → Fwish
 
-Every curve, box, word and wire group: [1975 - M484 - 484-02-001 - DUAL OUMMING AMEEAN (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-001%20-%20DUAL%20OUMMING%20AMEEAN%20(traced).json) (the CAD file: `1975 - M484 - 484-02-001 - DUAL OUMMING AMEEAN (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M484 - 484-02-001 - DUAL OUMMING AMEEAN (traced).json](../SCHEMATICS/1975%20-%20M484%20-%20484-02-001%20-%20DUAL%20OUMMING%20AMEEAN%20%28traced%29.json) (the CAD file: `1975 - M484 - 484-02-001 - DUAL OUMMING AMEEAN (traced).dxf`).
 
 ## Full text
 

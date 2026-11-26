@@ -36,7 +36,7 @@ Dark, damaged copy of the M484 dual summing amplifier schematic, cropped.
 - **Title block:** (99, 22)–(251, 84) mm: WES WARD-DECK · DRNEREU · 45484 · DUAL · CKD:
 - **Wiring (first pass):** 64 connected wire groups from 1,021 runs; labelled ends: 167 mm → C52, 24, LMsol, R44; 136 mm → C7o, 220/10, Rai, R4o; 104 mm → 247, 22, 249, C34; 94 mm → 2 46, 46, ik5, 2n7645; 86 mm → on, Fwish
 
-Every curve, box, word and wire group: [1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1975%20-%20484-02-001%20-%20DUAL%20SUMMING%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1975%20-%20484-02-001%20-%20DUAL%20SUMMING%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 
