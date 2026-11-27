@@ -1,0 +1,124 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1975 - M484 - 484-04-002 - CONNECTOR REAR VIEW.jpg",
+  "module": "M484",
+  "applies_to": [
+    "M484A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "484-04-002",
+    "title": "M484A SUMMING AMPLIFIER CONNECTOR REAR VIEW",
+    "date": "1975-06",
+    "issue": "1",
+    "drawn": "DM"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 15,
+      "rows": "A-S (no G, I, O, Q) beside 1-15",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "SUMMING AMP OUT",
+      "signal": "SUMMING AMP OUT",
+      "kind": "out",
+      "port": "SUMMING AMP OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "SUMMING AMP OUT",
+      "signal": "SUMMING AMP OUT",
+      "kind": "out",
+      "port": "SUMMING AMP OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "SUMMING AMP IN",
+      "signal": "SUMMING AMP IN",
+      "kind": "in",
+      "port": "SUMMING AMP IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "SUMMING AMP IN",
+      "signal": "SUMMING AMP IN",
+      "kind": "in",
+      "port": "SUMMING AMP IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "SUMMING AMP IN",
+      "dir": "in",
+      "pins": {
+        "a": "P1-12",
+        "b": "P1-13"
+      }
+    },
+    {
+      "name": "SUMMING AMP OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-3",
+        "b": "P1-4"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Checker field blank",
+    "Connector reference not drawn (P1 assumed)"
+  ],
+  "confidence": "high",
+  "notes": "15-position connector drawn as A|1 ... S|15 with labels only on the number side (leader lines start at the number column); whether the letter contacts carry the same signals (both faces bussed) or are unused is not stated. Only 1, 3, 4, 9, 12, 13, 15 are labelled; 2, 5-8, 10, 11, 14 are drawn blank and skipped. No polarity drawn on the in/out pairs. Title block names M484A only; drawing shows one summing amplifier (no second channel on this sheet). Both scans in this folder are the same sheet."
+}
