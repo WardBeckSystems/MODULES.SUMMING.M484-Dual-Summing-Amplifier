@@ -4,13 +4,11 @@ Ward-Beck Systems M484, 1975|8. Wiki page: [M484 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 52 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 14 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 90 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 51 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 13 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 89 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 20 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -47,8 +45,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZm5KaUpvbXFkTUU/view?resourcekey=0-TjlXhQM9fdDInQn2huXGMw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZm5KaUpvbXFkTUU&resourcekey=0-TjlXhQM9fdDInQn2huXGMw" width="240" alt="1975 - M484 - 484-02-002.jpg"></a><br><sub>1975|8 · 484-02-002 · <a href="SCHEMATICS/1975%20-%20M484%20-%20484-02-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLUtoUzhBbl91V0U/view?resourcekey=0-uMDojw4vAIi506dYm10jVg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLUtoUzhBbl91V0U&resourcekey=0-uMDojw4vAIi506dYm10jVg" width="240" alt="1977 - M484 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT.jpg"></a><br><sub>1977|10 · DOC - 77012-01-004 - MUT DIR MILIA MOM OUT · <a href="SCHEMATICS/1977%20-%20M484%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -56,8 +52,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdHlDRHVWLWs2TFE/view?resourcekey=0-JcvO0ke7qz-SP70jDCzoVA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdHlDRHVWLWs2TFE&resourcekey=0-JcvO0ke7qz-SP70jDCzoVA" width="240" alt="1975 - M484 - 484-04-002 - CONNECTOR REAR VIEW.jpg"></a><br><sub>1975|8 · 484-04-002 - CONNECTOR REAR VIEW · <a href="PINOUTS/1975%20-%20M484%20-%20484-04-002%20-%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1975 - 484-04-002 - SUMMING AMPLIFIER CONNECTOR REAR VIEW - DRN DM - ISS 1.jpg`, `M484 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -94,7 +88,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1975 - M484 - Dual Summing Amplifer p14.kicad_sch](KICAD/1975%20-%20M484%20-%20Dual%20Summing%20Amplifer%20p14.kicad_sch)
 - [1977 - M484 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT.kicad_sch](KICAD/1977%20-%20M484%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT.kicad_sch)
 - [M484.kicad_sym](KICAD/M484.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
