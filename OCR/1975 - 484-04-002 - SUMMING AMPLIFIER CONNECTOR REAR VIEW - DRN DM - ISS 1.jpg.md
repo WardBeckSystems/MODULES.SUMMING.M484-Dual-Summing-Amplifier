@@ -1,5 +1,5 @@
 # 1975 - 484-04-002 - SUMMING AMPLIFIER CONNECTOR REAR VIEW - DRN DM - ISS 1.jpg
-Wiki page: [M484](../../../../PAGES/M484.md)
+Wiki page: [M484](../)
 
 
 - **Year:** 1975 (title block date)

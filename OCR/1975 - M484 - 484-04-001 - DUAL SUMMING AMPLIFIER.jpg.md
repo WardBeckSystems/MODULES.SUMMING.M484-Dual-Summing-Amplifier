@@ -1,5 +1,5 @@
 # 1975 - M484 - 484-04-001 - DUAL SUMMING AMPLIFIER.jpg
-Wiki page: [M484](../../../../PAGES/M484.md)
+Wiki page: [M484](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

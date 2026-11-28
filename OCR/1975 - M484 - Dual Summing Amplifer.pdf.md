@@ -1,5 +1,5 @@
 # 1975 - M484 - Dual Summing Amplifer.pdf
-Wiki page: [M484](../../../../PAGES/M484.md)
+Wiki page: [M484](../)
 
 
 - **Year:** 1975 (found in this file: "DATE 27 MAY 75")

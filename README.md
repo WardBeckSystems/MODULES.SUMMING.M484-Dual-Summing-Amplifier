@@ -1,6 +1,6 @@
 # M484 Dual Summing Amplifier · Summing
 
-Ward-Beck Systems M484, 1975|8. Wiki page: [M484 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M484.html)
+Ward-Beck Systems M484, 1975|8. Wiki page: [M484 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M484-Dual-Summing-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1975 - 484-02-001 - DUAL SUMMING AMPLIFIER SCHEMATIC - DRN REB - ISS 3.jpg
-Wiki page: [M484](../../../../PAGES/M484.md)
+Wiki page: [M484](../)
 
 
 - **Year:** 1975 (title block date)
